@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Source+Sans+Pro&display=swap');
+
+body {
+    background-color: rgb(137, 175, 245);
+    font-size: 20px;    
+}
+h1 {
+    font-size: 2em;
+    text-shadow: 2px 1px white;
+}
+h2 {
+    font-size: 1.5em;
+}
+h2, h3, h4 {
+    text-shadow: 1px 0.5px white;
+}
+h1,h2,h3,h4 {
+    font-family: 'Roboto Slab';
+}
+p, ul, ol {
+    font-family: 'Source Sans Pro';
+    text-align: left;
+}
+img {
+    border: solid rgb(45, 97, 194) 7px;
+    box-shadow: white 5px 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+a {
+    color: black;
+}
